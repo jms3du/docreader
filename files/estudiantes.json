@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Ernesto",
+    "apellidos": "González Rodríguez",
+    "fechaNacimiento": "1975-11-11",
+    "genero": "HOMBRE",
+    "id": 1
+  },
+  {
+    "nombre": "María",
+    "apellidos": "Rodríguez González",
+    "fechaNacimiento": "2001-01-15",
+    "genero": "MUJER",
+    "id": 2
+  },
+  {
+    "nombre": "Carmela",
+    "apellidos": "Sánchez Gómez",
+    "fechaNacimiento": "1998-11-15",
+    "genero": "MUJER",
+    "id": 3
+  }
+]
